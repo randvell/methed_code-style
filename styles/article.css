@@ -6,11 +6,6 @@ figcaption {
   margin-bottom: 10px;
 }
 
-.recommended-links__list li {
-  list-style: none;
-  padding: 5px;
-}
-
 blockquote {
   position: relative;
   padding: 20px 20px 20px 30px;
@@ -38,4 +33,12 @@ blockquote::before {
   color: #0077cc;
   font-weight: bold;
   margin-right: 10px;
+}
+
+.recommended-links__list {
+  list-style: none;
+}
+
+.recommended-links__list li {
+  padding: 5px;
 }
