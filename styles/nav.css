@@ -1,0 +1,19 @@
+.nav__list {
+  list-style-type: none;
+}
+
+.nav__element {
+  display: inline;
+  margin-right: 20px;
+}
+
+.nav__element a {
+  text-decoration: none;
+  color: #000;
+  padding: 5px 10px;
+}
+
+.nav__element a:hover {
+  background-color: #0077cc;
+  color: #fff;
+}

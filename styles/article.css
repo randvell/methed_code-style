@@ -2,10 +2,6 @@ section h2, h3, h4, h5 {
   margin: 0;
 }
 
-aside {
-  background-color: rgb(230, 230, 230);
-}
-
 figcaption {
   margin-bottom: 10px;
 }
