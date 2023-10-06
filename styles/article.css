@@ -18,13 +18,13 @@ blockquote::before {
   background-color: #0077cc;
 }
 
-.bullet-dash li {
+.bullet-dash__element {
   text-align: left;
   list-style: none;
   padding-top: 5px;
 }
 
-.bullet-dash li::before {
+.bullet-dash__element::before {
   content: "—";
   color: #0077cc;
   font-weight: bold;
@@ -35,6 +35,6 @@ blockquote::before {
   list-style: none;
 }
 
-.recommended-links__list li {
+.recommended-links__element {
   padding: 5px;
 }
